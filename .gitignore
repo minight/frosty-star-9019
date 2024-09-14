@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Debugging
+npm-debug.log
+
+# Dependency directories
+lib/
+vendor/
+
+# Local configuration file
+config.js
+
+# Build output
+dist/
+
+# Temp files
+*.tmp
+
+# Editor files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
