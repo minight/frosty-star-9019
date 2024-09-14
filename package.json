@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "@minight/shiny-broccoli-4213": "^1.0.2"
   }
 }
