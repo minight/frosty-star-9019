@@ -11,6 +11,5 @@
     "wrangler": "^3.60.3"
   },
   "dependencies": {
-    "ini":"git://github.com./npm/ini.git#v2.0.0"
   }
 }
